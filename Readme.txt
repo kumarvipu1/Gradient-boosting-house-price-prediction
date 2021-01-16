@@ -1,0 +1,2 @@
+This project is to create and test ML model to predict house prices based on 
+"IOWA house price" data set downloaded from ```https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data```
